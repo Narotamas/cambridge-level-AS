@@ -18,5 +18,4 @@ class queue:
         else:
             return("stack is empty")
     
-    def pop(self):
-        
+    def dequeue(self):
